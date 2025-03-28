@@ -3,7 +3,7 @@
 
 ## 🚀 Live Demo
 
-🔗 [View Demo](https://your-username.github.io/burger-restaurant/)
+🔗 [View Demo](https://faresgherbawi.github.io/burger-restaurant/)
 
 
 ## 📌 Features
